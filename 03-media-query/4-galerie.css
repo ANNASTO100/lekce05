@@ -20,3 +20,9 @@ do 540px - 1 obrázek na řádku (= mobil)
 > 1000px - 6 obrázky vedle sebe
 */
 
+@media (min-width:540px) and (max-width:660px) {
+    .galerie {
+        flex: 1 1 50%; 
+    }
+
+}

@@ -1,0 +1,11 @@
+.barva{
+    background-color: yellow;
+}
+
+@media (max-width:500px) {
+        .barva{
+            background-color: red;
+        }
+
+}
+@media (min-width:500px) and (max)
